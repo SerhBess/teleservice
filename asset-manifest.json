@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/teleservice/static/css/main.512cacc9.css",
-    "main.js": "/teleservice/static/js/main.b32518e4.js",
+    "main.js": "/teleservice/static/js/main.523bf161.js",
     "static/media/login-image.png": "/teleservice/static/media/login-image.93784c6c67e00d0fa881.png",
     "static/media/TicketIcon.svg": "/teleservice/static/media/TicketIcon.bf8961595bb76351176119c49f21a251.svg",
     "static/media/Phone.png": "/teleservice/static/media/Phone.08c711b2cbfebf8ca51f.png",
@@ -21,10 +21,10 @@
     "static/media/ArrowRight.svg": "/teleservice/static/media/ArrowRight.dd0a38576f5801891244117fb8506bd6.svg",
     "static/media/Check.svg": "/teleservice/static/media/Check.33ccdac6734c0979f5b7eed1f71fee52.svg",
     "main.512cacc9.css.map": "/teleservice/static/css/main.512cacc9.css.map",
-    "main.b32518e4.js.map": "/teleservice/static/js/main.b32518e4.js.map"
+    "main.523bf161.js.map": "/teleservice/static/js/main.523bf161.js.map"
   },
   "entrypoints": [
     "static/css/main.512cacc9.css",
-    "static/js/main.b32518e4.js"
+    "static/js/main.523bf161.js"
   ]
 }
