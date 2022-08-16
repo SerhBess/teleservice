@@ -30,6 +30,7 @@ export default function Support() {
 
   const navigate = useNavigate()
   const location = useLocation()
+  console.log(location);
 
   useEffect(() => {
     if (location.pathname === "/support") navigate('questions')

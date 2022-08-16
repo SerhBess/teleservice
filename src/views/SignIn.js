@@ -14,7 +14,7 @@ export default function SignIn() {
     <div className='absolute left-0 top-0 w-full h-screen flex'>
       <div className='w-[30%] bg-[#FFFFFF] flex flex-col justify-center items-center '>
         <img src={Logo} alt='logo' className='mb-24'/>
-        <div className='flex flex-col gap-y-6 w-full max-w-[400px]'>
+        <form onSubmit={()=>{if (!validateEmail(email)) alert('Enter correct email address') }} className='flex flex-col gap-y-6 w-full max-w-[400px]'>
           <h1 className='text-3xl bold'>Log in</h1>
           <div className="mt-1 border-b border-gray-300 focus-within:border-[#198D99]">
             <input
@@ -56,11 +56,11 @@ export default function SignIn() {
             <Link to='#' className='text-[#757474] font-medium text-xs'>Forgotten password?</Link>
           </div>
           <Link to={validateEmail(email) ? '/home' : ''} state={{email}}>
-            <button onClick={()=>{if (!validateEmail(email)) alert('Enter correct email address') }} type='button' className='w-full bg-[#198D99] text-[#FEFEFE] p-3 hover:bg-[#2DC0CE] hover:text-[#FFFFFF] transition-all'>
+            <button type='submit' onClick={()=>{if (!validateEmail(email)) alert('Enter correct email address') }} className='w-full bg-[#198D99] text-[#FEFEFE] p-3 hover:bg-[#2DC0CE] hover:text-[#FFFFFF] transition-all'>
               Log in
             </button>
           </Link>
-        </div>
+        </form>
         <p className='text-[#757474] mt-24'>
           Don’t have an account? <Link to='#' className='text-[#198D99] hover:text-[#2DC0CE] transition-all'>Sign up</Link>
         </p>
