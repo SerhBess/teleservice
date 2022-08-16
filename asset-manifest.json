@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/teleservice/static/css/main.512cacc9.css",
+    "main.js": "/teleservice/static/js/main.b32518e4.js",
+    "static/media/login-image.png": "/teleservice/static/media/login-image.93784c6c67e00d0fa881.png",
+    "static/media/TicketIcon.svg": "/teleservice/static/media/TicketIcon.bf8961595bb76351176119c49f21a251.svg",
+    "static/media/Phone.png": "/teleservice/static/media/Phone.08c711b2cbfebf8ca51f.png",
+    "static/media/DeviceIcon.svg": "/teleservice/static/media/DeviceIcon.da4290739523118e832b49bef3ddcc84.svg",
+    "static/media/ContractIcon.svg": "/teleservice/static/media/ContractIcon.f436f178d86b9efc60c76c02c1c41e55.svg",
+    "static/media/Contracts.svg": "/teleservice/static/media/Contracts.7775d049bb215c495e5992a56c05559d.svg",
+    "static/media/Support.svg": "/teleservice/static/media/Support.36d2200c71c146ca81977c9a831fb8fd.svg",
+    "static/media/Orders.svg": "/teleservice/static/media/Orders.76637edb675123ef45825ac4fb5fa38f.svg",
+    "static/media/Logout.svg": "/teleservice/static/media/Logout.abbc1433fae6468e834cf3e4271a19a4.svg",
+    "static/media/Settings.svg": "/teleservice/static/media/Settings.f9ac8f56530746d5a775cdfe22415444.svg",
+    "static/media/Home.svg": "/teleservice/static/media/Home.e248d72c3ff301208c50521a23a340db.svg",
+    "static/media/Notification.svg": "/teleservice/static/media/Notification.6389e808f03dfe4e2d15e5ecdfd99593.svg",
+    "static/media/Cross.svg": "/teleservice/static/media/Cross.036626e3eb915e9ae70558d496dbd7c4.svg",
+    "index.html": "/teleservice/index.html",
+    "static/media/Devices.svg": "/teleservice/static/media/Devices.7049e83a305060fe0fd46fbbc61e4574.svg",
+    "static/media/Search.svg": "/teleservice/static/media/Search.4e967eb75c3393ed5173a3341f740138.svg",
+    "static/media/ArrowRight.svg": "/teleservice/static/media/ArrowRight.dd0a38576f5801891244117fb8506bd6.svg",
+    "static/media/Check.svg": "/teleservice/static/media/Check.33ccdac6734c0979f5b7eed1f71fee52.svg",
+    "main.512cacc9.css.map": "/teleservice/static/css/main.512cacc9.css.map",
+    "main.b32518e4.js.map": "/teleservice/static/js/main.b32518e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.512cacc9.css",
+    "static/js/main.b32518e4.js"
+  ]
+}
